@@ -50,9 +50,7 @@ Os requisitos são um navegador, preferencialmente o Google, o Visual Studio Cod
 
 ### Visual Studio Code
 
-É possível instalar o Visual Studio Code pelo website da Microsoft, pesquisando em um navegador ou diretamente pelo seguinte link:
-
-link do vscode
+É possível instalar o Visual Studio Code pelo website, pesquisando em um navegador ou diretamente [aqui](https://code.visualstudio.com/download).
 
 ### Extensão Python
 
